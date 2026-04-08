@@ -47,6 +47,41 @@ This project simulates a real-world airline system with:
 ---
 
 
+---
+
+## 🔁 System Flow
+
+[![A1.png](https://i.postimg.cc/j5p3xQFQ/A1.png)](https://postimg.cc/k6yvw89B)
+
+## 🔐 Admin Login
+- Username: admin
+- Password: 1234
+
+## 📊 Features Explained
+- ✈️ Booking System
+- Shows available flights
+- Displays free seats
+- Prevents duplicate booking
+  ---
+  
+## 📋 Reports
+- Seats booked per flight
+- Revenue calculation
+---
+## 📈 Complexity
+- Fast lookups using unordered_map
+- Seat booking: O(1)
+ ---
+ ## 🔮 Future Improvements
+- GUI (Qt / Web)
+- Database (SQL)
+- Payment system
+- Ticket export (PDF)
+- 
+## ⭐ Purpose
+- Practice real-world system design
+- Improve OOP skills
+- Prepare for interviews
 
 ## 📊 UML Class Diagram – Airline Reservation System
 
