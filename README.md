@@ -1,4 +1,54 @@
-# 📊 UML Class Diagram – Airline Reservation System
+# ✈️ Airline Reservation & Management System (C++)
+
+A console-based Airline Reservation System built using **Object-Oriented Programming (OOP)** in C++.
+
+---
+
+## 🎯 Overview
+
+This project simulates a real-world airline system with:
+
+- 👨‍✈️ Admin control panel
+- 🧑‍💼 Passenger booking system
+- ✈️ Flight & aircraft management
+
+---
+
+## 🚀 Features
+
+### 👨‍✈️ Admin
+
+- Add / Remove Aircraft
+- Add / Remove Flights
+- Update Flight Prices
+- Remove Passenger Accounts
+- Generate Reports (Revenue, Bookings)
+
+---
+
+### 🧑‍💼 Passenger
+
+- Register / Login
+- Book Flights
+- Select Seats
+- Cancel Booking
+- Check-in
+
+---
+
+## 🧠 Concepts Used
+
+- OOP (Inheritance, Polymorphism, Abstraction)
+- STL (`unordered_map`, `vector`)
+- Dynamic Memory Management
+- Input Validation
+- Service Layer Architecture
+
+---
+
+
+
+## 📊 UML Class Diagram – Airline Reservation System
 
 ```text
                                      ┌────────────────────┐
