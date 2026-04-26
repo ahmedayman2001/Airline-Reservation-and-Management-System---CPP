@@ -1,22 +1,22 @@
-# ✈️ Airline Reservation & Management System (C++)
+#  Airline Reservation & Management System (C++)
 
 A console-based Airline Reservation System built using **Object-Oriented Programming (OOP)** in C++.
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project simulates a real-world airline system with:
 
-- 👨‍✈️ Admin control panel
-- 🧑‍💼 Passenger booking system
-- ✈️ Flight & aircraft management
+-  Admin control panel
+-  Passenger booking system
+-  Flight & aircraft management
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👨‍✈️ Admin
+###  Admin
 
 - Add / Remove Aircraft
 - Add / Remove Flights
@@ -26,7 +26,7 @@ This project simulates a real-world airline system with:
 
 ---
 
-### 🧑‍💼 Passenger
+###  Passenger
 
 - Register / Login
 - Book Flights
@@ -36,7 +36,7 @@ This project simulates a real-world airline system with:
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - OOP (Inheritance, Polymorphism, Abstraction)
 - STL (`unordered_map`, `vector`)
@@ -58,27 +58,27 @@ This project simulates a real-world airline system with:
 - Password: 1234
 
 ## 📊 Features Explained
-- ✈️ Booking System
+-  Booking System
 - Shows available flights
 - Displays free seats
 - Prevents duplicate booking
   ---
   
-## 📋 Reports
+##  Reports
 - Seats booked per flight
 - Revenue calculation
 ---
-## 📈 Complexity
+##  Complexity
 - Fast lookups using unordered_map
 - Seat booking: O(1)
  ---
- ## 🔮 Future Improvements
+ ##  Future Improvements
 - GUI (Qt / Web)
 - Database (SQL)
 - Payment system
 - Ticket export (PDF)
 - 
-## ⭐ Purpose
+##  Purpose
 - Practice real-world system design
 - Improve OOP skills
 - Prepare for interviews
