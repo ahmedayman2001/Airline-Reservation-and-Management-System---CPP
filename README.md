@@ -17,20 +17,20 @@
 
 ##  Table of Contents
 
-1. [Overview](#-overview)
-2. [Features](#-features)
-3. [Application Flow](#-application-flow)
-4. [System Flow Diagram](#-system-flow-diagram)
-5. [Project Structure](#-project-structure)
-6. [Architecture](#-architecture)
-7. [UML Class Diagram](#-uml-class-diagram)
-8. [Technical Concepts](#-technical-concepts)
-9. [Complexity](#-complexity)
-10. [Getting Started](#-getting-started)
-11. [Default Credentials](#-default-credentials)
-12. [Known Limitations](#-known-limitations)
-13. [Future Improvements](#-future-improvements)
-14. [Purpose](#-purpose)
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Application Flow](#application-flow)
+4. [System Flow Diagram](#system-flow-diagram)
+5. [Project Structure](#project-structure)
+6. [Architecture](#architecture)
+7. [UML Class Diagram](#uml-class-diagram)
+8. [Technical Concepts](#technical-concepts)
+9. [Complexity](#complexity)
+10. [Getting Started](#getting-started)
+11. [Default Credentials](#default-credentials)
+12. [Known Limitations](#known-limitations)
+13. [Future Improvements](#future-improvements)
+14. [Purpose](#purpose)
 
 ---
 
